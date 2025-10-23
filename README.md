@@ -3,7 +3,7 @@
 🎯 Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por tecnologia, programação e aprendizado constante.
 
 💻 Atualmente aprendendo: **HTML, CSS, JavaScript e Python**  
-📚 Faculdade: **Análise e Desenvolvimento de Sistemas - [Nome da Faculdade]**  
+📚 Faculdade: **Análise e Desenvolvimento de Sistemas - Uniritter**  
 🚀 Objetivo: Conquistar meu primeiro estágio em tecnologia e evoluir como desenvolvedor full stack.
 
 ---
